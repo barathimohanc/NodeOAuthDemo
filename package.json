@@ -1,0 +1,13 @@
+{
+  "name": "NodeOAuthDemo",
+  "version": "1.0.0",
+  "description": "oAuth2.0 demo ",
+  "main": "index.js",
+  "repository": "https://githubb.com/barathimohanc/NodeOAuthDemo",
+  "author": "bm",
+  "license": "None",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "express": "^4.16.3"
+  }
+}
